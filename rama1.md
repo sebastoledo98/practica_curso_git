@@ -14,3 +14,12 @@
 *   Parte 3:
 
 ``` Codigo de diego, este genera conflicto ```
+
+
+*   parte 4:
+### rebase 
+```
+ /\_/\  
+( o.o )  
+ > ^ <
+```

@@ -1,5 +1,6 @@
+# No modificar esta parte
 *.png
-*.jpg
-*.jpeg
+
+# Moidica a partir de aquí
 API/apiprivada.txt
 API/info.md

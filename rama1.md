@@ -10,3 +10,7 @@
 *   Parte 2:
 
 ``` este codigo no genera coflicto ```
+
+*   Parte 3:
+
+``` Codigo de Paul ```
